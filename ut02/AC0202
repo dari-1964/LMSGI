@@ -1,0 +1,31 @@
+# AC0202
+
+Darileyni campusano castillo
+
+## Enunciado
+
+Montar un código que muestre los diferentes tamaños de textos de cabecera posibles en HTML5.
+
+## Solución
+
+```html
+<!DOCTYPE html>
+<html lang = "es">
+
+
+<hand>
+<title>AC0202</title>
+</hand>
+
+<body>
+
+<h1>AMOR</h1>
+<h2>AMOR</h2>
+<h3>Amor</h3>
+<h4>Amor</h4>
+<h5>Amor</h5>
+<h6>Amor</h6>
+
+</body>
+</html>
+```
